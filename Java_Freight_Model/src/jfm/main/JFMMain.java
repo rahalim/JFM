@@ -13,7 +13,7 @@ public class JFMMain
 
 		long startTime = System.currentTimeMillis();
 
-		//needs to be updated
+		//working directory is no longer needed
 		String wd =  "C:/Users/halim_r/workspace/";
 				
 		JavaFreightModel model = new JavaFreightModel(wd);
